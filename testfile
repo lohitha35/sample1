@@ -1,5 +1,9 @@
 hi welcome to git demo
 github details
 git
+<<<<<<< HEAD
 bitbucket
+=======
+version
+>>>>>>> 274af34a4d9d249bb7387c855e2f55d41b753914
 both are useful
